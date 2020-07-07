@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>ServiceNow and senseLink data docking</description>
+        <device_type>browser</device_type>
+        <hint>ServiceNow and senseLink data docking</hint>
+        <name/>
+        <order/>
+        <roles>admin,x_512600_serviceap.employee,x_512600_serviceap.visitor</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-07 02:15:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9dcb8cea2fb950109d5c55272799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>serviceApp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="serviceApp" source="x_512600_serviceap">08724c622fb950109d5c55272799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="serviceApp">08724c622fb950109d5c55272799b65f</sys_scope>
+        <sys_update_name>sys_app_application_9dcb8cea2fb950109d5c55272799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-07 02:15:43</sys_updated_on>
+        <title>serviceApp</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

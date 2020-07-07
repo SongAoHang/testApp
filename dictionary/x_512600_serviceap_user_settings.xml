@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User Settings" max_length="40" name="x_512600_serviceap_user_settings" type="collection">
+        <element label="Auto Update" max_length="40" name="auto_update" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Host Name" max_length="400" name="host_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Send Project" max_length="400" name="send_project" type="string"/>
+        <element label="Service Connection Status" max_length="40" name="service_connection_status" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Temperature Threshold" max_length="40" name="temperature_threshold" type="string"/>
+    </element>
+</database>

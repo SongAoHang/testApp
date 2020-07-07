@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_extension_point">
+    <sys_ui_extension_point action="DELETE">
+        <api_name/>
+        <description/>
+        <example><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+12323212121
+</j:jelly>]]></example>
+        <name/>
+        <public>true</public>
+        <restrict_scope>false</restrict_scope>
+        <sys_class_name>sys_ui_extension_point</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-07 02:38:44</sys_created_on>
+        <sys_id>0ff0d0622ff950109d5c55272799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="serviceApp" source="x_512600_serviceap">08724c622fb950109d5c55272799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="serviceApp">08724c622fb950109d5c55272799b65f</sys_scope>
+        <sys_update_name>sys_ui_extension_point_0ff0d0622ff950109d5c55272799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-07 02:38:44</sys_updated_on>
+    </sys_ui_extension_point>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="serviceApp">08724c622fb950109d5c55272799b65f</application>
+        <file_path/>
+        <instance_id>c2bc0b23dbc8f34007072f17d49619b2</instance_id>
+        <instance_name>dev74793</instance_name>
+        <name>sys_ui_extension_point_0ff0d0622ff950109d5c55272799b6d4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_extension_point"&gt;&lt;sys_ui_extension_point action="INSERT_OR_UPDATE"&gt;&lt;api_name/&gt;&lt;description/&gt;&lt;example&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+12323212121
+&lt;/j:jelly&gt;]]&gt;&lt;/example&gt;&lt;name/&gt;&lt;public&gt;true&lt;/public&gt;&lt;restrict_scope&gt;false&lt;/restrict_scope&gt;&lt;sys_class_name&gt;sys_ui_extension_point&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-07 02:38:44&lt;/sys_created_on&gt;&lt;sys_id&gt;0ff0d0622ff950109d5c55272799b6d4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="serviceApp" source="x_512600_serviceap"&gt;08724c622fb950109d5c55272799b65f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="serviceApp"&gt;08724c622fb950109d5c55272799b65f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_extension_point_0ff0d0622ff950109d5c55272799b6d4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-07 02:38:44&lt;/sys_updated_on&gt;&lt;/sys_ui_extension_point&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1202971139</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c4724c622fb950109d5c55272799b661</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-07 02:38:44</sys_created_on>
+        <sys_id>d201d4ee2fb950109d5c55272799b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1732723cbfa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-07 02:38:44</sys_updated_on>
+        <type>UI Extension Point</type>
+        <update_guid>1e01d4eeecb95010d5dc0dfc5927ea15</update_guid>
+        <update_guid_history>1e01d4eeecb95010d5dc0dfc5927ea15:-1202971139</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-07 02:41:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_extension_point">sys_ui_extension_point</sys_db_object>
+        <sys_id>34f6a6ca5450405db2292972053f4961</sys_id>
+        <sys_metadata>0ff0d0622ff950109d5c55272799b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="serviceApp" source="x_512600_serviceap">08724c622fb950109d5c55272799b65f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="serviceApp">08724c622fb950109d5c55272799b65f</sys_scope>
+        <sys_scope_delete display_value="">094b4628d29a4890aa1a3a7a2ca22910</sys_scope_delete>
+        <sys_update_name>sys_ui_extension_point_0ff0d0622ff950109d5c55272799b6d4</sys_update_name>
+        <sys_update_version display_value="sys_ui_extension_point_0ff0d0622ff950109d5c55272799b6d4">d201d4ee2fb950109d5c55272799b616</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-07 02:41:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

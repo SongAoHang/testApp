@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_512600_serviceap_首页.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<div>你知道这是什么么？</div>
+</j:jelly>]]></html>
+        <name>首页</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-07 02:43:27</sys_created_on>
+        <sys_id>d7d1d4ee2fb950109d5c55272799b6ba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>首页</sys_name>
+        <sys_package display_value="serviceApp" source="x_512600_serviceap">08724c622fb950109d5c55272799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="serviceApp">08724c622fb950109d5c55272799b65f</sys_scope>
+        <sys_update_name>sys_ui_page_d7d1d4ee2fb950109d5c55272799b6ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-07 02:46:18</sys_updated_on>
+    </sys_ui_page>
+</record_update>
